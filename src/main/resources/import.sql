@@ -1,4 +1,4 @@
-
+-- BCRYPT PASSWORRD GENERATOR: https://bcrypt-generator.com
 INSERT INTO users (username, password, enabled, name, email) VALUES ('john', '$2a$04$jJ.cIt03C4H2hmzgAju5ce/FtmYE2B1fgBaLGxVusFSGgZxx5RR/e', 1, 'John', 'john@gmail.com');
 INSERT INTO users (username, password, enabled, name, email) VALUES ('emily', '$2a$04$jJ.cIt03C4H2hmzgAju5ce/FtmYE2B1fgBaLGxVusFSGgZxx5RR/e', 1, 'Emilly', 'emily@gmail.com');
 INSERT INTO users (username, password, enabled, name, email) VALUES ('matt', '$2a$04$hiVuc40MqkW1W5kD.WO9j.2h.IcNcMcTl//RkmNgFniDfrGdTSymm', 1, 'Matt', 'matt@gmail.com');
